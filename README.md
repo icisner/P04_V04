@@ -25,7 +25,7 @@ These are some things that I tried to improve speed in **index.html**:
    
 3. Copy analytics.js file from (google analytics)[http://www.google-analytics.com/analytics.js] and Minify
    * Moving file and inlining analytics.js saved about 70ms
-      ![test3]{https://github.com/icisner/P04_V04/blob/master/img/analytics_js.JPG)
+      ![test3](https://github.com/icisner/P04_V04/blob/master/img/JS_1.JPG)
 
 1. Open a browser and visit localhost:8080
 1. Download and install [ngrok](https://ngrok.com/) to make your local server accessible remotely.
