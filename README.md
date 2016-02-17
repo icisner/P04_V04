@@ -13,7 +13,7 @@ These are some things that I tried to improve speed in **index.html**:
     * [CSS Compressor](http://csscompressor.com/)
     
       Saving about 338 ms 
-      !(A)[../img/CSS_1.jpg]
+      ![/img/CSS_1.jpg]
     
 2. Minify JS files **perfmatters.js** using web tools like these:
 
@@ -23,7 +23,7 @@ These are some things that I tried to improve speed in **index.html**:
       Saving about 172 ms 
       !(A)[../img/JS_1.jpg]
    
-3. Copy analytics.js file from (http://www.google-analytics.com/analytics.js)[http://www.google-analytics.com/analytics.js] and Minify
+3. Copy analytics.js file from (google analytics)[http://www.google-analytics.com/analytics.js] and Minify
    * Moving file and inlining analytics.js saved about 70ms
       !(A)[../img/analytics_js.jpg]
 
