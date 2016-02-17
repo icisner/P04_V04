@@ -13,7 +13,7 @@ These are some things that I tried to improve speed in **index.html**:
     * [CSS Compressor](http://csscompressor.com/)
     
       Saving about 338 ms 
-      ![img/CSS_1.jpg]
+      ![test](https://github.com/icisner/P04_V04/blob/master/img/CSS_1.JPG)
     
 2. Minify JS files **perfmatters.js** using web tools like these:
 
