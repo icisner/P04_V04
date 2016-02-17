@@ -21,7 +21,7 @@ These are some things that I tried to improve speed in **index.html**:
    * [JS Minifier](https://javascript-minifier.com/)
     
       Saving about 172 ms 
-      !(https://github.com/icisner/P04_V04/blob/master/img/JS_1.JPG)
+      ![test2](https://github.com/icisner/P04_V04/blob/master/img/JS_1.JPG)
    
 3. Copy analytics.js file from (google analytics)[http://www.google-analytics.com/analytics.js] and Minify
    * Moving file and inlining analytics.js saved about 70ms
