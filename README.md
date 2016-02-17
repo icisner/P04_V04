@@ -5,19 +5,26 @@
 
 ####Part 1: Optimize PageSpeed Insights score for index.html
 
-These are some approches that I tried to improve speed in **index.html**:
+These are some things that I tried to improve speed in **index.html**:
 
-1. Minify CSS files **print.css**, **style.css** using web base tool some on those are listed bellow
+1. Minify CSS files **print.css**, **style.css** using some web base tools like listed bellow:
+
     * [CSS Minifier](https://cssminifier.com/)
     * [Clean CSS](http://www.cleancss.com/css-minify/)
     * [CSS Compressor](http://csscompressor.com/)
     
-2. Minify JS files To inspect the site on your phone, you can run a local server
+      Saving about 338 ms !()[/img/CSS_1.jpg]
+    
+2. Minify JS files **perfmatters.js** using web tools like these:
 
-  ```bash
-  $> cd /path/to/your-project-folder
-  $> python -m SimpleHTTPServer 8080
-  ```
+   * [JS Compress](http://jscompress.com/)
+   * [JS Minifier](https://javascript-minifier.com/)
+    
+      Saving about 172 ms !()[/img/JS_1.jpg]
+   
+3. Copy analytics.js file from (http://www.google-analytics.com/analytics.js)[http://www.google-analytics.com/analytics.js] and Minify
+   * Moving file and inlining analytics.js saved about 70ms
+      !()[/img/analytics_js.jpg]
 
 1. Open a browser and visit localhost:8080
 1. Download and install [ngrok](https://ngrok.com/) to make your local server accessible remotely.
