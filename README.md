@@ -7,8 +7,12 @@
 
 These are some approches that I tried to improve speed in **index.html**:
 
-1. Check out the repository
-1. To inspect the site on your phone, you can run a local server
+1. Minify CSS files **print.css**, **style.css** using web base tool some on those are listed bellow
+    * [CSS Minifier](https://cssminifier.com/)
+    * [Clean CSS](http://www.cleancss.com/css-minify/)
+    * [CSS Compressor](http://csscompressor.com/)
+    
+2. Minify JS files To inspect the site on your phone, you can run a local server
 
   ```bash
   $> cd /path/to/your-project-folder
