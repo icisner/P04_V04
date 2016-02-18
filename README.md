@@ -1,12 +1,10 @@
 ## Website Performance Optimization portfolio project
 
-### Getting started
-
 ####Part 1: Optimize PageSpeed Insights score for index.html
 
 These are some things that I tried to improve speed in **index.html**:
 
-1. Minify CSS files **print.css**, **style.css** using some web base tools like listed bellow:
+1. Minify and inline CSS files **print.css**, **style.css** using some web base tools like listed bellow:
 
     * [CSS Minifier](https://cssminifier.com/)
     * [Clean CSS](http://www.cleancss.com/css-minify/)
@@ -15,7 +13,7 @@ These are some things that I tried to improve speed in **index.html**:
       Saving about 338 ms 
       ![test](https://github.com/icisner/P04_V04/blob/master/img/CSS_1.JPG)
     
-2. Minify JS files **perfmatters.js** using web tools like these:
+2. Minify JS and inline files **perfmatters.js** using web tools like these:
 
    * [JS Compress](http://jscompress.com/)
    * [JS Minifier](https://javascript-minifier.com/)
@@ -23,9 +21,20 @@ These are some things that I tried to improve speed in **index.html**:
       Saving about 172 ms 
       ![test2](https://github.com/icisner/P04_V04/blob/master/img/JS_1.JPG)
    
-3. Copy analytics.js file from (google analytics)[http://www.google-analytics.com/analytics.js] and Minify
+3. Copy analytics.js file from (google analytics)[http://www.google-analytics.com/analytics.js] and Minify as well inlining
    * Moving file and inlining analytics.js saved about 70ms
       ![test3](https://github.com/icisner/P04_V04/blob/master/img/analytics_js.JPG)
+
+4. Coping picture to have locally and optimizing pictures size using one tool that I had avilable called Corel PaintShop Pro to have under 30Kb make a big difference
+   
+   * Here is one example using Corel PaintShop picture optimization tool
+   
+	![pic](https://github.com/icisner/icisner.github.io/blob/master/img/CorelPaintShop.png)
+
+
+
+
+
 
 1. Open a browser and visit localhost:8080
 1. Download and install [ngrok](https://ngrok.com/) to make your local server accessible remotely.
