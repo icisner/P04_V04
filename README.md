@@ -31,7 +31,9 @@ These are some things that I tried to improve speed in **index.html**:
    
 	![pic](https://github.com/icisner/P04_V04/blob/master/img/CorelPaintShop.jpg)
 
+###Page speed test achieved after all changes
 
+	![pic](https://github.com/icisner/P04_V04/blob/master/img/weboptimized.png)
 
 
 
