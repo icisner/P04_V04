@@ -35,7 +35,7 @@ These are some things that I tried to improve speed in **index.html**:
 
    * Here are the results for web page performance
    
-	![pic1](https://github.com/icisner/P04_V04/blob/master/img/weboptimized.jpg)
+	![pic1](https://github.com/icisner/P04_V04/blob/master/img/speedtest.png)
 
 
 
