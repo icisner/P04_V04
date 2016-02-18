@@ -1,21 +1,9 @@
 ## Website Performance Optimization portfolio project
 
-
 ### Getting started
 
-Source coide under src directory from https://github.com/icisner/icisner.github.io
-
-<<<<<<< HEAD
 ####Part 1: Optimize PageSpeed Insights score for index.html
 
-	These are some things done to optimze index.html
-
-  ```bash
-	1.- Inline style.css, print.css 
-	2.- Moving in and Inline  analytics.js, perfmatters.js, perfmatters.js
-	3.- Copied pizzeria.jpg to pizzeria_v1.jpg reducing to 19Kb
-	4.- Optimized images to ~ 5Kb
-=======
 These are some things that I tried to improve speed in **index.html**:
 
 1. Minify CSS files **print.css**, **style.css** using some web base tools like listed bellow:
@@ -24,18 +12,20 @@ These are some things that I tried to improve speed in **index.html**:
     * [Clean CSS](http://www.cleancss.com/css-minify/)
     * [CSS Compressor](http://csscompressor.com/)
     
-      Saving about 338 ms !()[/img/CSS_1.jpg]
+      Saving about 338 ms 
+      ![test](https://github.com/icisner/P04_V04/blob/master/img/CSS_1.JPG)
     
 2. Minify JS files **perfmatters.js** using web tools like these:
 
    * [JS Compress](http://jscompress.com/)
    * [JS Minifier](https://javascript-minifier.com/)
     
-      Saving about 172 ms !()[/img/JS_1.jpg]
+      Saving about 172 ms 
+      ![test2](https://github.com/icisner/P04_V04/blob/master/img/JS_1.JPG)
    
-3. Copy analytics.js file from (http://www.google-analytics.com/analytics.js)[http://www.google-analytics.com/analytics.js] and Minify
+3. Copy analytics.js file from (google analytics)[http://www.google-analytics.com/analytics.js] and Minify
    * Moving file and inlining analytics.js saved about 70ms
-      !()[/img/analytics_js.jpg]
+      ![test3](https://github.com/icisner/P04_V04/blob/master/img/analytics_js.JPG)
 
 1. Open a browser and visit localhost:8080
 1. Download and install [ngrok](https://ngrok.com/) to make your local server accessible remotely.
@@ -72,4 +62,12 @@ Tools to minify js https://javascript-minifier.com/ (I tried grunt as well but h
 	2.- Removing some variables from loop in line 457 to speed up process
 
 	Page loaded at GitHub http://icisner.github.io/views/pizza.html
+
+	These are some things done to optimze index.html
+
+
+	1.- Inline style.css, print.css 
+	2.- Moving in and Inline  analytics.js, perfmatters.js, perfmatters.js
+	3.- Copied pizzeria.jpg to pizzeria_v1.jpg reducing to 19Kb
+	4.- Optimized images to ~ 5Kb
 
