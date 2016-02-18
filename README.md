@@ -29,7 +29,7 @@ These are some things that I tried to improve speed in **index.html**:
    
    * Here is one example using Corel PaintShop picture optimization tool
    
-	![pic](https://github.com/icisner/icisner.github.io/blob/master/img/CorelPaintShop.png)
+	![pic](https://github.com/icisner/P04_V04/blob/master/img/CorelPaintShop.jpg)
 
 
 
