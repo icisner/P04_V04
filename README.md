@@ -42,15 +42,15 @@ These are some things that I tried to improve speed in **index.html**:
 
 These are some things done to optimze views/js/main.js
 
-	* Optimized pizza.jpg file to reduce from 49Kb to 24Kb using same as before Corel PaintShop
-	* Reducing math operations and creating vectors to speed up loop  line 548
-	* Reducing number of pizza for scrolling in line 551 from 200 to 32
+   * Optimized pizza.jpg file to reduce from 49Kb to 24Kb using same as before Corel PaintShop
+   * Reducing math operations and creating vectors to speed up loop  line 548
+   * Reducing number of pizza for scrolling in line 551 from 200 to 32
 
 	![pic2](https://github.com/icisner/P04_V04/blob/master/img/loop1_part2.png)
 
 	Page loaded at GitHub ![pic3](http://icisner.github.io/views/pizza.html)
 	
-	* Using transform to avoid trigering Layout ![pic3](http://csstriggers.com/)
+   * Using transform to avoid trigering Layout ![pic3](http://csstriggers.com/)
 	
 	![pic4](https://github.com/icisner/P04_V04/blob/master/img/pizza_transform.PNG)
 
