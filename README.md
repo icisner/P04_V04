@@ -67,4 +67,4 @@ These are some things done to optimze views/js/main.js
     ![pic6](https://github.com/icisner/P04_V04/blob/master/img/loop2_part1.png)
 
 #####Page speed test achieved after all changes
-    ![pic7](https://github.com/icisner/P04_V04/blob/master/img/prj3_resize.PNG)
+   ![pic7](https://github.com/icisner/P04_V04/blob/master/img/prj3_resize.PNG)
