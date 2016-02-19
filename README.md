@@ -31,31 +31,11 @@ These are some things that I tried to improve speed in **index.html**:
    
 	![pic](https://github.com/icisner/P04_V04/blob/master/img/CorelPaintShop.jpg)
 
-###Page speed test achieved after all changes
+#####Page speed test achieved after all changes
 
    * Here are the results for web page performance
    
 	![pic1](https://github.com/icisner/P04_V04/blob/master/img/speedtest.png)
-
-
-
-
-1. Open a browser and visit localhost:8080
-1. Download and install [ngrok](https://ngrok.com/) to make your local server accessible remotely.
-
-  ``` bash
-  $> cd /path/to/your-project-folder
-  $> ngrok http 8080
->>>>>>> origin/master
-  ```
-
-Tools to optimzed pictures used was Corel PaintShop Pro X4 using resize menu and Optimizer tool under Filse save us -> options
-Tools to minify css https://cssminifier.com/ (I tried grunt but had some issues with addins so decided to use web tools)
-Tools to minify js https://javascript-minifier.com/ (I tried grunt as well but had some issues so decided to use web tools)
-
-
-	Page loaded at GitHub http://icisner.github.io/
-	Page speed test 94% for Mobile and 95% in Desktop
 
 
 ####Part 2: Optimizing Frames per Second in pizza.html
