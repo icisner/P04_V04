@@ -46,13 +46,13 @@ These are some things done to optimze views/js/main.js
 	* Reducing math operations and creating vectors to speed up loop  line 548
 	* Reducing number of pizza for scrolling in line 551 from 200 to 32
 
-	![pic2]()
+	![pic2](https://github.com/icisner/P04_V04/blob/master/img/loop1_part2.png)
 
 	Page loaded at GitHub ![pic3](http://icisner.github.io/views/pizza.html)
 	
 	* Using transform to avoid trigering Layout ![pic3](http://csstriggers.com/)
 	
-	![pic4]()
+	![pic4](https://github.com/icisner/P04_V04/blob/master/img/pizza_transform.PNG)
 
 
 ####Part 3 Optimizing speed for size change in pizza.html
