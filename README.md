@@ -48,9 +48,9 @@ These are some things done to optimze views/js/main.js
 
 	![pic2](https://github.com/icisner/P04_V04/blob/master/img/loop1_part2.png)
 
-	Page loaded at GitHub [pic3](http://icisner.github.io/views/pizza.html)
+	Page loaded at GitHub [http://icisner.github.io/views/pizza.html](http://icisner.github.io/views/pizza.html)
 	
-   * Using transform to avoid trigering Layout [pic3](http://csstriggers.com/)
+   * Using transform to avoid trigering Layout good reference in  [http://csstriggers.com/](http://csstriggers.com/)
 	
 	![pic4](https://github.com/icisner/P04_V04/blob/master/img/pizza_transform.PNG)
 
