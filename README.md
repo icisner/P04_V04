@@ -40,13 +40,20 @@ These are some things that I tried to improve speed in **index.html**:
 
 ####Part 2: Optimizing Frames per Second in pizza.html
 
-	These are some things done to optimze views/js/main.js
-	1.- Optimized pizza.jpg to reduce from 49Kb to 24Kb
-	2.- Reducing math operations and creating vectors to speed up loop  line 548
-	3.- Reducing number of pizza for scrolling in line 551 from 200 to 32
-	4.- Optimized images to ~ 5Kb
+These are some things done to optimze views/js/main.js
 
-	Page loaded at GitHub http://icisner.github.io/views/pizza.html
+	* Optimized pizza.jpg file to reduce from 49Kb to 24Kb using same as before Corel PaintShop
+	* Reducing math operations and creating vectors to speed up loop  line 548
+	* Reducing number of pizza for scrolling in line 551 from 200 to 32
+
+	![pic2]()
+
+	Page loaded at GitHub ![pic3](http://icisner.github.io/views/pizza.html)
+	
+	* Using transform to avoid trigering Layout ![pic3](http://csstriggers.com/)
+	
+	![pic4]()
+
 
 ####Part 3 Optimizing speed for size change in pizza.html
 
