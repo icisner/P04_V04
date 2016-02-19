@@ -57,17 +57,10 @@ These are some things done to optimze views/js/main.js
 
 ####Part 3 Optimizing speed for size change in pizza.html
 
-	These are some things done to optimze views/js/main.js
-	1.- Removing some variables from loop in line 513 to speed up process
-	2.- Removing some variables from loop in line 457 to speed up process
-
-	Page loaded at GitHub http://icisner.github.io/views/pizza.html
-
-	These are some things done to optimze index.html
-
-
-	1.- Inline style.css, print.css 
-	2.- Moving in and Inline  analytics.js, perfmatters.js, perfmatters.js
-	3.- Copied pizzeria.jpg to pizzeria_v1.jpg reducing to 19Kb
-	4.- Optimized images to ~ 5Kb
+  * Inline style.css, print.css 
+  * Moving in and Inline  analytics.js, perfmatters.js, perfmatters.js
+  * Copied pizzeria.jpg to pizzeria_v1.jpg reducing to 5Kb
+  * Changing loop 
+  
+    ![pic5]{https://github.com/icisner/P04_V04/blob/master/img/loop2_part1.png)
 
